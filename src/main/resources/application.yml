@@ -15,4 +15,4 @@ management:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://localhost:8761/eureka/
+      defaultZone: http://eureka-server-lab-dekra-lab-dekra.e4ff.pro-eu-west-1.openshiftapps.com/eureka/
